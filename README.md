@@ -136,7 +136,7 @@ This project is for **educational purposes** as part of the Nand2Tetris course.
 
 ## 🙋‍♀️ Author
 
-**Garima Badugu**
+**RISHI GOUTHAM**
 CS Student | Systems & Low-level Programming Enthusiast
 
 ---
